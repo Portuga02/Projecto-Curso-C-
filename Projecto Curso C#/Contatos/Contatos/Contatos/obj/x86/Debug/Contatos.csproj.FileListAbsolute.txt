@@ -1,0 +1,21 @@
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Contatos.csproj.GenerateResource.Cache
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Debug\ContadosDB.sdf
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Debug\Contatos.exe.config
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Debug\Contatos.exe
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Debug\Contatos.pdb
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Debug\Contatos.csprojResolveAssemblyReference.cache
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Debug\Contatos.csproj.GenerateResource.Cache
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Debug\Contatos.exe
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Debug\Contatos.pdb
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Debug\Contatos.exe.manifest
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Debug\Contatos.application
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Debug\Contatos.exe.manifest
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Debug\Contatos.application

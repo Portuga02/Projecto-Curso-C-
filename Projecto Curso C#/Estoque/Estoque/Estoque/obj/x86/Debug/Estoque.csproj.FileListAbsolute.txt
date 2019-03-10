@@ -1,0 +1,30 @@
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Estoque.csproj.GenerateResource.Cache
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Sávio\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\bin\Debug\Estoque.exe
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\bin\Debug\Estoque.pdb
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\Estoque.csproj.GenerateResource.Cache
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\Estoque.exe
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\Estoque.pdb
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.frmCadLivros.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.frmCadEditora.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.frmFuncionario.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.frmLocatario.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\bin\Debug\Estoque.exe.config
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\Estoque.csprojResolveAssemblyReference.cache
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\bin\Debug\CadastroFuncionario.sdf
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\bin\Debug\CadastroEditoras.sdf
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\bin\Debug\CadastroLivros.sdf
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.frmAgendarLivros.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\bin\Debug\CadastroLocacao.sdf
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\bin\Debug\CadastroLocadores.sdf
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\bin\Debug\LivrosDevolucao.sdf
+C:\Users\Sávio\documents\visual studio 2010\Projects\Estoque\Estoque\obj\x86\Debug\WindowsFormsApplication1.frmLivrosDevolucao.resources

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Contatos.exe" version="1.0.0.0" publicKeyToken="cd3a62c14a3ac8f6" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Contatos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Contatos.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.SqlServerCe" version="3.5.1.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Contatos.exe" size="55808">
+      <assemblyIdentity name="Contatos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>MJjPsoMZ8k8+zDJDHCMsBqQ6pNI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ContadosDB.sdf" size="86016" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>28fjbO0O0t921F5fQQPQnTRdAdE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Contatos.exe.config" size="405">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hWzw2I69Ly6PJQ1iiaI9kh4zWvM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-II71I54\Sávio" issuerKeyHash="d8e5adf2291b3483bf5d1e12e1b3e8a4b7f6c5eb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>5WysIdWStSJa117DNkuEvwxPZS8=</DigestValue></Reference></SignedInfo><SignatureValue>JB5XqupvToVtdUTIf73i6Y75pByXxJQEp6IKGMYDAGz2KsXh0v1P0Um6l6a7yQv7j/2pS0zBJO+YzPfbQrN7YWKzoOW5/aLvCbLoLLPG0GO8LF8hYfCdJzMS/FbCKykci6s2IQDTS4enI20LmSkgJsaK3IYYKKn+q056n9sPeus=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zQzE+5fViqWcEGhOVVsD0SVkI32f/JVe4/mhoIEVWazxz6BYTW5VpJNN/+H4rSwR+Eg0uWgaWD4+kLKnGJkTbVJSqt58EnJMrZD67G4xg7p3prKBY270nQGjFR/s0LnLPoa2xudMhGpueg2XlOTBJGBX1alN0gc7yi0JpzRArkE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2f654f0cbf844b36c35ed75a22b592d521ac6ce5" Description="" Url=""><as:assemblyIdentity name="Contatos.exe" version="1.0.0.0" publicKeyToken="cd3a62c14a3ac8f6" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-II71I54\Sávio</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>od1DmuRDSuJfrsMZLSY8IZ4iZgo=</DigestValue></Reference></SignedInfo><SignatureValue>VynyEBYRrLMF+behtZCU9gkZ3WZndzQNchkS1edITykFU4SqjrB2GrU0lIebTMS0crSW+ffzdk+cTk9AHzgaB8+2G/yqQ+RrsfevoDogyrdmUHasaTbweMTTqn1ggMEs05ZEX+m0uQ+8VGadt9NBMEI38fw09UGjfg69WRw1a9s=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zQzE+5fViqWcEGhOVVsD0SVkI32f/JVe4/mhoIEVWazxz6BYTW5VpJNN/+H4rSwR+Eg0uWgaWD4+kLKnGJkTbVJSqt58EnJMrZD67G4xg7p3prKBY270nQGjFR/s0LnLPoa2xudMhGpueg2XlOTBJGBX1alN0gc7yi0JpzRArkE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQPzex0RHO04xFHeJoeqmxsjANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEkASQA3ADEASQA1ADQAXABTAOEAdgBpAG8wHhcNMTgwNzI2MTcyNDAyWhcNMTkwNzI2MjMyNDAyWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEkASQA3ADEASQA1ADQAXABTAOEAdgBpAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM0MxPuX1YqlnBBoTlVbA9ElZCN9n/yVXuP5oaCBFVms8c+gWE1uVaSTTf/h+K0sEfhINLloGlg+PpCypxiZE21SUqrefBJyTK2Q+uxuMYO6d6aygWNu9J0BoxUf7NC5yz6GtsbnTIRqbnoNl5TkwSRgV9WpTdIHO8otCac0QK5BAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAEb/Gq+/RLm/jKlzpCHpIJQTVjxddDA2hZnsKIRDtTZ+lkTexUmH32TUj6t+ATXG4KYN7CnFngFyc1gVF6fl3a9wcOqZSJB8pZaqCQABPk+l0BkVQBbe0Vm2lJZYpYtjgvbEspZ58ogsGu31Y0Ycjx3cZrkPIAYrtY8PqDtT5cag=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

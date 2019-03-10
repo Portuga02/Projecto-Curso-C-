@@ -1,0 +1,13 @@
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Release\ContadosDB.sdf
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Release\Contatos.exe.config
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Release\Contatos.exe.manifest
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Release\Contatos.application
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Release\Contatos.exe
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\bin\Release\Contatos.pdb
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Release\Contatos.csproj.GenerateResource.Cache
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Release\Contatos.exe.manifest
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Release\Contatos.application
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Release\Contatos.exe
+C:\Users\Sávio\documents\visual studio 2010\Projects\Contatos\Contatos\obj\x86\Release\Contatos.pdb
